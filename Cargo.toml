@@ -1,0 +1,6 @@
+[package]
+name = "iso6937"
+version = "0.1.0"
+authors = ["Christophe Augier <christophe.augier@gmail.com>"]
+
+[dependencies]
