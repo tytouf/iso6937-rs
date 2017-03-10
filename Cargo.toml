@@ -1,6 +1,13 @@
 [package]
 name = "iso6937"
 version = "0.1.0"
+description = "Codec for iso6937 character encoding."
 authors = ["Christophe Augier <christophe.augier@gmail.com>"]
+license = "MIT"
+repository = "https://github.com/tytouf/iso6937-rs"
+readme = "README.md"
+keywords = ["iso6937", "encoding", "character"]
+categories = ["encoding"]
+
 
 [dependencies]
